@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto&family=Tilt+Prism&display=swap');
+*{font-family: 'Roboto', sans-serif;
+font-weight: 500;
+
+
+}
+body {
+    background-image: url(https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-bg.png);
+    background-size: 70pc;
+    background-repeat: no-repeat;
+    background-position: top;
+   
+}
+
+.h1 {
+    margin-left: 7pc;
+    font-size: 40px;
+    text-shadow: 1px 5px 10px #565656;
+    font-weight: 900;
+    margin-top: 90px;
+}
+
+.Teams {
+    margin-left: 7pc;
+    margin-top: -20px;
+    color: #696969;
+}
+
+.parent {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid white;
+    margin-left: 7pc;
+    width: 650px;
+    height: 300px;
+    background-color: white;
+    font-size: 13px;
+}
+
+.innings {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 7pc;
+    width: 650px;
+    background-color: rgb(240, 80, 51);
+    align-items: center;
+    height: 30px;
+    color: white;
+ 
+}
+
+.outs {
+    display: flex;
+    flex-direction: column;
+    color: #A5A5A5;
+}
+.logo{
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-bottom: 40px;
+}
+.details {
+    display: flex;
+    justify-content: space-around;
+}
+
+.runs {
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-top: -10px;
+
+}
+
+.fours {
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-top: -10px;
+}
+
+.sixs {
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-top: -10px;
+}
+
+.SR {
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-top: -10px;
+}
+
+.balls {
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    ;
+    margin-top: -10px;
+}
+
+.batsman {
+    display: flex;
+    flex-direction: column;
+    margin-right: 40px;
+    margin-top: -10px;
+    color: #569AF1;
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 125px;
+    width: 639px;
+    background-color: white;
+    margin-top: 0px;
+    font-size: 13px;
+
+}
+
+.score {
+    margin-right: 20px;
+    margin-left: 10px;
+    margin-top: -2px;
+}
+
+.bottoms {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 125px;
+    width: 636px;
+    background-color: white;
+    font-size: 13px;
+    margin-top: -120px;
+}
+
+.bottoms1 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 125px;
+    width: 639px;
+    background-color: white;
+    font-size: 13px;
+    margin-top: -5px;
+}
+
+.raina {
+    margin-right: 130px;
+    color: #75ACF3;
+}
+
+.margin1 {
+    margin-right: 135px;
+}
+.margin2 {
+    margin-right: 115px;}
+.man {
+    color: black;
+}
+.top{
+    margin-top: -100px;
+}
+.footer{
+    margin-left: 120px;
+    margin-top: 100px;
+}
+p{
+    margin-bottom: -1px;
+}
